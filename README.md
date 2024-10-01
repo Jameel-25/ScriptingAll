@@ -1,0 +1,2 @@
+# ScriptingAll
+Bash Script Practicing
